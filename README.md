@@ -1,2 +1,3 @@
 # Text_Classification
-Text Classification using different classification algorithms suchs as SVM, BiLSTM etc
+
+This repository contains my code for building supervused machine models for text classifcation using different machine learning models - SVM, BiLSTM and BERT. 
